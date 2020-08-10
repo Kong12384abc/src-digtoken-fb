@@ -1,0 +1,8 @@
+D:\Project\DigToken\bin\Debug\FB-CHECKER.exe
+D:\Project\DigToken\bin\Debug\FB-CHECKER.pdb
+D:\Project\DigToken\bin\Debug\Newtonsoft.Json.dll
+D:\Project\DigToken\obj\Debug\DigToken.csprojAssemblyReference.cache
+D:\Project\DigToken\obj\Debug\DigToken.csproj.CoreCompileInputs.cache
+D:\Project\DigToken\obj\Debug\DigToken.csproj.CopyComplete
+D:\Project\DigToken\obj\Debug\FB-CHECKER.exe
+D:\Project\DigToken\obj\Debug\FB-CHECKER.pdb
